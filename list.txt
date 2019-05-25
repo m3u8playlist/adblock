@@ -127,6 +127,8 @@ www.youjizz.com##.pub_300x250m
 www.youjizz.com##.pub_300x250
 www.youjizz.com##.adsBox
 
+javfor.me##.text-center
+
 
 www.uisdc.com##.featured-wrapper
 www.uisdc.com##.aside
