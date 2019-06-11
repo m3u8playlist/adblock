@@ -367,3 +367,14 @@ bbc.com##.share
 one-piece.cn###sub-area
 one-piece.cn##.ad
 one-piece.cn##.comment
+
+ddrk.me##.post-image
+ddrk.me##.site-header
+ddrk.me##.metadata
+ddrk.me##.watchtimes-div
+ddrk.me##.gaogu
+ddrk.me##.post-last-modified
+ddrk.me##.navigation
+ddrk.me###comments
+ddrk.me##strong
+ddrk.me##.vjs-poster
