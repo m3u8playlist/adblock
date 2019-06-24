@@ -64,70 +64,7 @@ www.feng.com###gameChannel
 www.feng.com###softwareGames
 bbs.feng.com##tbody[id^="stickthread_"]
 
-avgle.com###wrapper > div.footer-container
-avgle.com##.col-sm-4.col-md-3.col-lg-12 > .well
-avgle.com##.row:nth-of-type(1) > .col-lg-12
-avgle.com##.overflow-hidden.m-t-10
-avgle.com##.well-filters.well
-avgle.com##.clearfix:nth-of-type(18)
-avgle.com###ps32-container
-avgle.com##.exo-native-widget
-avgle.com###wrapper > div.container > div:nth-child(2) > div.col-lg-12.col-md-9.col-sm-8 > div.vote-box
-avgle.com###wrapper > div.container > div:nth-child(2) > div.col-lg-12.col-md-9.col-sm-8 > div.pull-left
-avgle.com###wrapper > div.container > div:nth-child(2) > div.col-lg-12.col-md-9.col-sm-8 > div.pull-right
-avgle.com##center
-avgle.com###blocked-if
-avgle.com###ps32-container
-avgle.com##img[src="http://isafe.pro/img/b_a.gif"]
 
-avgle.com###player_3x2_container > div
-avgle.com##iframe
-avgle.com###player_3x2_close
-avgle.com###aoverlay
-
-www.xvideos.com###mobile-menu
-www.xvideos.com###mobile-filters-menu
-www.xvideos.com###mobile-filters-menu
-www.xvideos.com##.mobile-hide
-www.xvideos.com###home-tabs
-www.xvideos.com###footer
-www.xvideos.com##.video-metadata
-www.xvideos.com###video-tabs
-www.xvideos.com##.mobile-only-hide
-www.xvideos.com###ad-header-mobile
-www.xvideos.com##.sdabox
-www.xvideos.com###ad-footer
-www.xvideos.com###nav
-
-www.pornhub.com##.footer-title
-www.pornhub.com##.footer
-www.pornhub.com##.linkGroup
-www.pornhub.com##.logos
-www.pornhub.com##.bottomNav
-www.pornhub.com##.adContainer
-
-www.youporn.com###network-bar
-www.youporn.com##.promo-message
-www.youporn.com###adblock_1
-www.youporn.com##footer
-www.youporn.com##.hot-videos-women-wrapper
-www.youporn.com##.videoCommentsTitle
-www.youporn.com###videoComments
-
-www.youjizz.com##.top_pr
-www.youjizz.com###divExoLayerWrapper
-www.youjizz.com##.text_ads
-www.youjizz.com##.text_ad
-www.youjizz.com##.textAd
-www.youjizz.com##.text-ads
-www.youjizz.com##.text-ad-links
-www.youjizz.com##.text-ad
-www.youjizz.com##.pub_728x90
-www.youjizz.com##.pub_300x250m
-www.youjizz.com##.pub_300x250
-www.youjizz.com##.adsBox
-
-javfor.me##.text-center
 
 
 www.uisdc.com##.featured-wrapper
@@ -313,20 +250,6 @@ i.biquge5200.com##.footer
 i.biquge5200.com##.footer+div
 
 
-m.airav.cc###header
-m.airav.cc###ContentPlaceHolder1_ad_top
-m.airav.cc###share_video
-m.airav.cc###footer
-m.airav.cc##.relative_post_div
-m.airav.cc###ContentPlaceHolder1_UpdatePanel2
-airav.cc##.header-bar
-airav.cc##header
-airav.cc##.sideTab
-airav.cc##.randomvedio
-airav.cc##.relative_post_div
-airav.cc###ContentPlaceHolder1_UpdatePanel2
-airav.cc###boot
-airav.cc##.wrapper-sticky
 
 
 m.yuewz.com##.footer+div
@@ -349,7 +272,7 @@ www.waerfa.com##.relates_title
 www.waerfa.com##.relates
 
 
-www5.javmost.com###divExoLayerWrapper
+
 
 bbc.com##.story-body__mini-info-list-and-share-row
 bbc.com###topic-tags
