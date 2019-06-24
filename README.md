@@ -7,4 +7,5 @@
 * youjizz.com
 * fbjav.com
 * javfor.me
+* javflash.net
 
