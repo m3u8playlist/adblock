@@ -3,5 +3,8 @@
 
 * pornhub.com
 * xvideos.com
+* youporn.com
+* youjizz.com
 * fbjav.com
+* javfor.me
 
