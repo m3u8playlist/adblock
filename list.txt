@@ -301,3 +301,4 @@ ddrk.me###comments
 ddrk.me##strong
 ddrk.me##.vjs-poster
 ddrk.me##.post-title
+ddrk.me##.afc_popup
