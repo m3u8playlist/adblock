@@ -5,6 +5,31 @@ www.pornhub.com##.linkGroup
 www.pornhub.com##.logos
 www.pornhub.com##.bottomNav
 www.pornhub.com##.adContainer
+www.pornhub.com##.rightAds
+www.pornhub.com##.removeAdLink
+www.pornhub.com###hd-rightColVideoPage
+www.pornhub.com##.footerContentWrapper
+www.pornhub.com##.ad
+www.pornhub.com##.adBig
+www.pornhub.com###footerContainer
+www.pornhub.com##.footer-text
+www.pornhub.com##.logoFooterWrapper
+
+cn.pornhub.com##.footer-title
+cn.pornhub.com##.footer
+cn.pornhub.com##.linkGroup
+cn.pornhub.com##.logos
+cn.pornhub.com##.bottomNav
+cn.pornhub.com##.adContainer
+cn.pornhub.com##.rightAds
+cn.pornhub.com##.removeAdLink
+cn.pornhub.com###hd-rightColVideoPage
+cn.pornhub.com##.footerContentWrapper
+cn.pornhub.com##.ad
+cn.pornhub.com##.adBig
+cn.pornhub.com###footerContainer
+cn.pornhub.com##.footer-text
+cn.pornhub.com##.logoFooterWrapper
 
 
 www.xvideos.com###mobile-menu
