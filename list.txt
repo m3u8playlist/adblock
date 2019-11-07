@@ -8,7 +8,7 @@ www.cnbeta.com##.pageFooter
 www.cnbeta.com###cb_share
 www.cnbeta.com##.cnbeta-article-vote-tags
 
-sspai.com###footer
+sspai.com##.footer
 sspai.com##.related-article
 sspai.com##.top-banner
 sspai.com##.is-shown.open-in-app-button
@@ -24,6 +24,8 @@ sspai.com##.article-card> dt
 sspai.com###home > div.container > div.main > div.series-carousel-card
 sspai.com##.advertDiv
 sspai.com##.copyright
+sspai.com##.main-banner-box
+sspai.com##.minor-banner-box
 
 bbs.feng.com##.wrap:nth-of-type(8) > div:nth-of-type(1)
 bbs.feng.com###forum_rules_68
