@@ -1,5 +1,8 @@
 [Adblock Plus 2.0]
 
+
+m.douban.com##.TalionNav-static
+
 www.cnbeta.com##.cnbeta-home-side
 www.cnbeta.com##.topContent
 www.cnbeta.com##.cnbeta-headlines
