@@ -2,7 +2,7 @@
 
 
 m.douban.com##.TalionNav-static
-m.douban.com##._28FDy
+
 
 www.cnbeta.com##.cnbeta-home-side
 www.cnbeta.com##.topContent
