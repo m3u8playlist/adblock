@@ -2,6 +2,8 @@
 
 
 m.douban.com##.TalionNav-static
+m.douban.com##.subject-banner
+
 
 
 www.cnbeta.com##.cnbeta-home-side
