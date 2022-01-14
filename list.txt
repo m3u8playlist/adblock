@@ -16,6 +16,9 @@ www.cnbeta.com##.cnbeta-article-vote-tags
 
 sspai.com##.footer
 sspai.com##.advertisementCardBox
+sspai.com##.indexRight
+sspai.com##.main-banner-box
+sspai.com##.minor-banner-box
 sspai.com##.related-article
 sspai.com##.top-banner
 sspai.com##.is-shown.open-in-app-button
