@@ -21,6 +21,7 @@ sspai.com##.main-banner-box
 sspai.com##.minor-banner-box
 sspai.com##.related-article
 sspai.com##.top-banner
+sspai.com##.footer-content
 sspai.com##.is-shown.open-in-app-button
 sspai.com###app > div > div.main > div > div.article-wrapper > div > article > img
 sspai.com###app > div > div.main > div > div.article-wrapper > div > article > h1
@@ -34,8 +35,7 @@ sspai.com##.article-card> dt
 sspai.com###home > div.container > div.main > div.series-carousel-card
 sspai.com##.advertDiv
 sspai.com##.copyright
-sspai.com##.main-banner-box
-sspai.com##.minor-banner-box
+
 
 bbs.feng.com##.wrap:nth-of-type(8) > div:nth-of-type(1)
 bbs.feng.com###forum_rules_68
