@@ -321,3 +321,6 @@ image.kdmmm.cn/*
 
 www.micmicdoll.com###header-wrapper
 www.micmicdoll.com###sidebar-wrapper
+www.micmicdoll.com###related-posts
+www.micmicdoll.com###middle-wrapper
+www.micmicdoll.com###footer-links-wrap
