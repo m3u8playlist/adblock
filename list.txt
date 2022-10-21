@@ -324,3 +324,5 @@ www.micmicdoll.com###sidebar-wrapper
 www.micmicdoll.com###related-posts
 www.micmicdoll.com###middle-wrapper
 www.micmicdoll.com###footer-links-wrap
+
+www.economist.com##._newsletterContentPromo
