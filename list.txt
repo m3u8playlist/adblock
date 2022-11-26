@@ -1,19 +1,5 @@
 [Adblock Plus 2.0]
 
-
-m.douban.com##.TalionNav-static
-m.douban.com##.subject-banner
-
-
-
-www.cnbeta.com##.cnbeta-home-side
-www.cnbeta.com##.topContent
-www.cnbeta.com##.cnbeta-headlines
-www.cnbeta.com##.pageHeader
-www.cnbeta.com##.pageFooter
-www.cnbeta.com###cb_share
-www.cnbeta.com##.cnbeta-article-vote-tags
-
 sspai.com##.footer
 sspai.com##.advertisementCardBox
 sspai.com##.indexRight
